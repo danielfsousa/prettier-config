@@ -1,4 +1,4 @@
-# prettier-config
+# `@danielfsousa/prettier-config`
 My prettier config
 
 ## Usage
@@ -9,8 +9,8 @@ Install:
 npm install --save-dev prettier @danielfsousa/prettier-config
 ```
 
-Create a `.prettierrc` file:
+Create a `.prettierrc` file containing `"@danielfsousa/prettier-config"`:
 
-```
-"@danielfsousa/prettier-config"
+```bash
+echo '"@danielfsousa/prettier-config"' > .prettierrc
 ```
