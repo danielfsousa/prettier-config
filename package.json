@@ -1,0 +1,29 @@
+{
+  "name": "@danielfsousa/prettier-config",
+  "version": "1.0.0",
+  "description": "my prettier config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielfsousa/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": {
+    "name": "Daniel Sousa",
+    "email": "sousa.dfs@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielfsousa/prettier-config/issues"
+  },
+  "homepage": "https://github.com/danielfsousa/prettier-config#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "prettier-plugin-packagejson": "^2.2.7"
+  }
+}
